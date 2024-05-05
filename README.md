@@ -1,6 +1,6 @@
 ### Hi there, I'm Neerav Sood 👋
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<Neerav>'s Stats](https://github-readme-stats.vercel.app/api?username=<neeravsood>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## About Me 
 - 🔭 I’m currently exploring futuristic technologies in AI. 
@@ -13,7 +13,7 @@
 - [Google Scholar Profile](https://scholar.google.com/citations?user=UlpgyzkAAAAJ&hl=en)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,dotnet,php,java,js,aws,aws,gcp,azure,react,vue,flutter,flask,figma,elasticsearch,mysql,git,kubernetes,docker&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,dotnet,php,java,js,aws,gcp,azure,react,vue,flutter,flask,figma,elasticsearch,mysql,git,kubernetes,docker&perline=3)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
