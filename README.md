@@ -1,6 +1,6 @@
 ### Hi there, I'm Neerav Sood 👋
 
-![<Neerav>'s Stats](https://github-readme-stats.vercel.app/api?username=<neeravsood>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<Neerav>'s Stats](https://github-readme-stats.vercel.app/api?username=neeravsood&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## About Me 
 - 🔭 I’m currently exploring futuristic technologies in AI. 
