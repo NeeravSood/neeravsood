@@ -3,7 +3,7 @@
 ![<Neerav>'s Stats](https://github-readme-stats.vercel.app/api?username=neeravsood&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## About Me 
-- 🔭 I’m currently exploring futuristic technologies in AI. 
+- 🔭 I’m currently exploring futuristic technologies. 
 - 🌱 I’m currently working on developing a super secret quantum computing proof cybersecurity technology.
 - 💬 Ask me about Artificial Intelligence & Machine Learning.
 - 😄 Pronouns: He/Him
