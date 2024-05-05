@@ -13,7 +13,7 @@
 - [Google Scholar Profile](https://scholar.google.com/citations?user=UlpgyzkAAAAJ&hl=en)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,dotnet,php,java,js,aws,gcp,azure,react,vue,flutter,flask,figma,elasticsearch,mysql,git,kubernetes,docker&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,elasticsearch,mysql,git,kubernetes,docker&perline=4)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
