@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Neerav Sood 👋
 
-<!--
-**NeeravSood/neeravsood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-Here are some ideas to get you started:
+## About Me 
+- 🔭 I’m currently exploring futuristic technologies in AI. 
+- 🌱 I’m currently working on developing a super secret quantum computing proof cybersecurity technology.
+- 💬 Ask me about Artificial Intelligence & Machine Learning.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a published poet & an author in the making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## My Research Papers
+- [Google Scholar Profile](https://scholar.google.com/citations?user=UlpgyzkAAAAJ&hl=en)
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,dotnet,php,java,js,aws,aws,gcp,azure,react,vue,flutter,flask,figma,elasticsearch,mysql,git,kubernetes,docker&perline=3)](https://skillicons.dev)
+
+## 📬 Get in Touch
+
+- Connect with me on [Linkedin](https://www.linkedin.com/in/neeravsood/)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 
 -->
+  
