@@ -1,7 +1,5 @@
 ### Hi there, I'm Neerav Sood 👋
 
-![<Neerav>'s Stats](https://github-readme-stats.vercel.app/api?username=neeravsood&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## About Me 
 - 🔭 I’m currently exploring futuristic technologies. 
 - 🌱 I’m currently working on developing a super secret quantum computing proof cybersecurity technology.
@@ -20,5 +18,3 @@
 - Connect with me on [Linkedin](https://www.linkedin.com/in/neeravsood/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 
--->
-  
