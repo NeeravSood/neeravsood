@@ -10,9 +10,6 @@
 ## My Research Papers
 - [Google Scholar Profile](https://scholar.google.com/citations?user=UlpgyzkAAAAJ&hl=en)
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,elasticsearch,mysql,git,kubernetes,docker&perline=4)](https://skillicons.dev)
-
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/neeravsood/)
